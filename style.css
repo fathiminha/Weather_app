@@ -86,3 +86,7 @@ body{
     font-size: 25px;
     margin: -6px;
 }
+
+.weather{
+    display: none;
+}
